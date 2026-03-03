@@ -89,4 +89,5 @@ Real-world mini project structure
 
 🌐 Web-based version
 
-![Task Orbit Screenshot](https://github.com/Akashchandai/Task-Orbit-Smart-Task-Manager/blob/e4f481c2b2c2a388ca84e72cac0aa2480a166ea5/taskmanger%20image%201.png)
+![Task Orbit Screenshot 1](https://github.com/Akashchandai/Task-Orbit-Smart-Task-Manager/blob/e4f481c2b2c2a388ca84e72cac0aa2480a166ea5/taskmanger%20image%201.png)
+![Task Orbit Screenshot 1](https://github.com/Akashchandai/Task-Orbit-Smart-Task-Manager/blob/ad6e8c20b7af04d8ca1679d2aa1350f992e889b2/taskmanger%20image%202.png)
